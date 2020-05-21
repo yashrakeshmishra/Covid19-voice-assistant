@@ -10,8 +10,8 @@ cases, total number of deaths caused by Covid-19 and number of people recovered.
 * All the dependencies from 'requirements.txt'.
  Can be done by running the following script in terminal.
     
-    
-    pip3 install -r requirements.txt
+     
+     pip3 install -r requirements.txt
     
 # Implementation
 * The project uses ParseHub as a web scrapper to get data from https://www.worldometers.info/coronavirus/
